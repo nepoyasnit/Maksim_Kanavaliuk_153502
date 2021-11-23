@@ -1,0 +1,3 @@
+﻿  task7.cpp
+C:\Users\Honor\source\repos\Lab4.7\task7.cpp(36,8): warning C4018: <=: несоответствие типов со знаком и без знака
+  Lab4.7.vcxproj -> C:\Users\Honor\source\repos\Lab4\Debug\Lab4.7.exe

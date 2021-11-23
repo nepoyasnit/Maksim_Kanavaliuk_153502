@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Honor\source\repos\Libs\DynLib\main.cpp(7): warning C4715: elements: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\Honor\source\repos\Libs\Debug\DynLib.lib и объект C:\Users\Honor\source\repos\Libs\Debug\DynLib.exp
+  DynLib.vcxproj -> C:\Users\Honor\source\repos\Libs\Debug\DynLib.dll

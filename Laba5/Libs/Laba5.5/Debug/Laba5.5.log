@@ -1,0 +1,3 @@
+﻿  task5.cpp
+C:\Users\Honor\source\repos\Libs\Laba5.5\task5.cpp(28,29): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+  Laba5.5.vcxproj -> C:\Users\Honor\source\repos\Libs\Debug\Laba5.5.exe
