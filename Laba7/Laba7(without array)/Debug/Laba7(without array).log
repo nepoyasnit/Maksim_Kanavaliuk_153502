@@ -1,0 +1,4 @@
+﻿  Laba7(without array).cpp
+C:\Users\Honor\source\repos\Laba7\Laba7(without array)\Laba7(without array).cpp(28,16): warning C4244: инициализация: преобразование "long double" в "__int64", возможна потеря данных
+C:\Users\Honor\source\repos\Laba7\Laba7(without array)\Laba7(without array).cpp(67,11): warning C4244: =: преобразование "long double" в "int", возможна потеря данных
+  Laba7(without array).vcxproj -> C:\Users\Honor\source\repos\Laba7\Debug\Laba7(without array).exe

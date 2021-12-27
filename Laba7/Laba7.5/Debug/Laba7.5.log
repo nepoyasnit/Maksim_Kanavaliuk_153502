@@ -1,0 +1,12 @@
+﻿  Laba7.5.cpp
+C:\Users\Honor\source\repos\Laba7\MyFuckingString\MyFuckingString.cpp(43,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Honor\source\repos\Laba7\MyFuckingString\MyFuckingString.cpp(46,38): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Honor\source\repos\Laba7\MyFuckingString\MyFuckingString.cpp(100,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Honor\source\repos\Laba7\MyFuckingString\MyFuckingString.cpp(103,38): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Honor\source\repos\Laba7\MyFuckingString\MyFuckingString.cpp(126,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Honor\source\repos\Laba7\MyFuckingString\MyFuckingString.cpp(135,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Honor\source\repos\Laba7\MyFuckingString\MyFuckingString.cpp(144,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Honor\source\repos\Laba7\MyFuckingString\MyFuckingString.cpp(152,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Honor\source\repos\Laba7\MyFuckingString\MyFuckingString.cpp(169,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Honor\source\repos\Laba7\MyFuckingString\MyFuckingString.cpp(193,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Laba7.5.vcxproj -> C:\Users\Honor\source\repos\Laba7\Debug\Laba7.5.exe
