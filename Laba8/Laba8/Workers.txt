@@ -1,0 +1,10 @@
+Konovaliuk Maksim Anatolievich 2 21 Programmer 1
+Bogdanov Aleksandr Sergeevich 2 100 Programmer 1
+Dubinka Mikhail Aleksandrovich 2 21 Programmer 1
+Vladymtsev Vadim Denisovich 666 1 TeachIter 1
+Berdnik Lubov Anatolievna 2 10000 Starosta 1
+Demidova Darya Aleekseevna 1 16 Programmer 1
+Zhagorov Aleksandr Sergeevich 1 18 Matematician 1
+Demeshkevich Pavel Andreevich 2 21 Programmer 1
+Leonenko Alexey Olegovich 2 15 Programmer 1
+Mileyko Eugheniy Aleksandrovich 2 22 Programmer
