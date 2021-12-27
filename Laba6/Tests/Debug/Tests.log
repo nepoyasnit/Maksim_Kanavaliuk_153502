@@ -1,0 +1,4 @@
+﻿  test.cpp
+C:\Users\Honor\source\repos\Laba6\Tests\test.cpp(48,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Honor\source\repos\Laba6\Tests\test.cpp(261,12): warning C4244: return: преобразование "long double" в "int", возможна потеря данных
+  Tests.vcxproj -> C:\Users\Honor\source\repos\Laba6\Debug\Tests.exe

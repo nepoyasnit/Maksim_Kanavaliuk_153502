@@ -1,0 +1,4 @@
+﻿  Laba6.2.cpp
+C:\Users\Honor\source\repos\Laba6\Laba6.2\Laba6.2.cpp(18,47): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\Honor\source\repos\Laba6\Debug\Laba6.2.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Laba6.2.vcxproj -> C:\Users\Honor\source\repos\Laba6\Debug\Laba6.2.exe
